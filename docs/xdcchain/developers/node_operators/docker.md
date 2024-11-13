@@ -62,7 +62,7 @@ sudo docker-compose -f docker-compose.yml up -d
 ```
 At this point you should be able to see your masternode on the list of nodes here or as shown below:
 
-![node-sync](xdcchain/img/node_sync.png)
+![node-sync](../../img/node_sync.png)
 
 For Testnet run the following commands:
 ```bash
